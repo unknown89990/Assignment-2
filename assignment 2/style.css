@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&family=Dancing+Script:wght@400..700&family=Gravitas+One&family=Lobster&family=Oleo+Script:wght@400;700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Pacifico&display=swap');
+
+
+.head{
+    font-family: "Dancing Script", cursive;
+    text-align: center;
+    background-color: rgb(165, 165, 165);
+    font-size: 30px;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
